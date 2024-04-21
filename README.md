@@ -5,6 +5,7 @@ Hello! I'm a passionate programmer specializing in game development using Unity.
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/unity.svg" alt="vscode" width="45" height="45"/>
+      
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/unity.svg" alt="unity" width="45" height="45"/>
 </p>
 
