@@ -3,12 +3,12 @@ Hello! I'm a passionate programmer in game development using Unity. Whether it's
 
 <h2>My Projects</h2>
 
-| Header1 | Header2 | Header3 |
-| :---- | :----: | ----: |
-| R1C1 | R1C2 | R1C3 |
-| R2C1 | R2C2 | R2C3 |
+| KnightsNPong | AgentZero |
+| :---- | :----: |
+| R1C1 | R1C2 |
+| R2C1 | R2C2 |
 
-<h2>Some Tools I Understand</h2>
+<h2>My Tools</h2>
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
