@@ -43,7 +43,6 @@ consequences on another level. This is my third game built using Unity Engine, i
 
 
 <h2>My Tools</h2>
-Tools I Use For Game Development
 
 Websites I Often Visits
 - Freesound
