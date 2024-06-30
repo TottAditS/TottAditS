@@ -49,7 +49,7 @@ consequences on another level. This is my third game built using Unity Engine, i
   <tr width="500px" align="center">
   <td>
     
-https://github.com/TottAditS/TottAditS/assets/154248410/e5235f80-920f-47fe-b65f-3d6beff8c710
+![0630 (1)(1)](https://github.com/TottAditS/TottAditS/assets/154248410/a68079f2-006b-441d-8391-35897d0bbeed)
 
   </td>
   <td>
@@ -60,7 +60,8 @@ Coming Soon
   </tr>
   <tr width="500px">
   <td valign="text-top">
-aaaaaa
+Just simple mechanism of User Interface, animation, and Basic Interaction i've learned. This is my first project using Unity Engine, So much to exlore about. 
+The gameplay of this game is side scroll themed. For now it only can attack, soon i will make it so this game is playable.
   </td>
   <td valign="text-top">
 Coming Soon
