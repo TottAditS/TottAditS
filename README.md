@@ -3,16 +3,32 @@ Hello! I'm a passionate programmer in game development using Unity. Whether it's
 
 <h2>My Projects</h2>
 
-|         KnightsNPong     |          AgentZero         |
-| ------------------------ | -------------------------- |
-| R1C1 | R1C2 |
-| R2C1 | R2C2 |
 
-<style>
-    table {
-        width: 100%;
-    }
-</style>
+
+<!-- prettier-ignore -->
+<table>
+  <thead>
+    <tr>
+      <th width="500px"> API</th>
+      <th width="500px">CLI</th>
+    </tr>
+  </thead>
+  <tbody>
+  <tr width="600px">
+      <td>
+
+
+</td>
+<td>
+
+
+</td>
+</tr>
+
+  </tbody>
+</table>
+
+
 
 <h2>My Tools</h2>
 
