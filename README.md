@@ -4,7 +4,7 @@ Hello! I'm a passionate programmer in game development using Unity. Whether it's
 <h2>My Projects</h2>
 
 | KnightsNPong | AgentZero |
-| :---- | :----: |
+| :------------------------ | -------------------------- |
 | R1C1 | R1C2 |
 | R2C1 | R2C2 |
 
