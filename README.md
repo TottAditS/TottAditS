@@ -14,7 +14,7 @@ Hello! I'm a passionate programmer in game development using Unity. Whether it's
     </tr>
   </thead>
   <tbody>
-  <tr width="600px">
+  <tr width="100%">
       <td>
 
 
