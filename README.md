@@ -57,6 +57,7 @@ consequences on another level. This is my third game built using Unity Engine, i
 - Unity Asset Store
 - Pixabay
 - OpenGameArt
+  
   </td>
   <td>
   
@@ -67,6 +68,7 @@ consequences on another level. This is my third game built using Unity Engine, i
 - Figma
 - Adobe Photoshop
 - Capcut
+  
   </td>
   </tr>
   </tbody>
