@@ -9,8 +9,8 @@ Hello! I'm a passionate programmer in game development using Unity. Whether it's
 <table>
   <thead>
     <tr>
-      <th width="500px">Knights N Pongs</th>
-      <th width="500px">Agent Zero</th>
+      <th width="500px"><a href="https://github.com/TottAditS/KnightsNPongs">KnightsNPong</th>
+      <th width="500px"><a href="https://github.com/TottAditS/AgentZero">AgentZero</th>
     </tr>
   </thead>
   <tbody>
