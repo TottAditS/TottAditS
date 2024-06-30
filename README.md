@@ -40,21 +40,24 @@ consequences on another level. This is my third game built using Unity Engine, i
   </tbody>
 </table>
 <!-- ============================================= -->
-
-
-<!-- ============================================= -->
-
-
 <h2>My Tools</h2>
-
-Websites I Often Visits
+<table>
+  <thead>
+    <tr>
+      <th width="500px" align="center">Websites I Often Visits</th>
+      <th width="500px" align="center">Tools I Use For Game Development</th>
+    </tr>
+  </thead>
+  <tbody>
+  <tr width="500px" align="center">
+  <td>
 - Freesound
 - Itch.io
 - Unity Asset Store
 - Pixabay
 - OpenGameArt
-
-Tools I Use For Game Development
+  </td>
+  <td>
 - Unity
 - Visual Studio Code
 - Visual Studio 2022
@@ -62,8 +65,8 @@ Tools I Use For Game Development
 - Figma
 - Adobe Photoshop
 - Capcut
-
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/unity.svg" alt="unity" width="45" height="45"/>
-</p>
+  </td>
+  </tr>
+  </tbody>
+</table>
+<!-- ============================================= -->
