@@ -27,11 +27,11 @@ Hello! I'm a passionate programmer in game development using Unity. Whether it's
   </td>
   </tr>
   <tr width="500px">
-  <td>
+  <td valign="text-top">
 <h5>About Game</h5>
 Knights N Pong it's a minigame i created using Unity Engine, I'm currently still new to Unity Engine and this is my second project after "MyFirstProject". Just a simple game based on Pong. This game is about two knights having fun passing ball each other.
   </td>
-  <td>
+  <td valign="text-top">
 <h5>About Game</h5>
 Agent Zero is a Prototype game themed Natural Disaster, Educational Game. The game for now has two level. And the levels are connected to each other, so what you do on level 1 will have
 consequences on another level. This is my third game built using Unity Engine, it's not perfect, still have ups and downs, and i will finish the game soon.
