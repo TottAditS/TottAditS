@@ -44,11 +44,12 @@ consequences on another level. This is my third game built using Unity Engine, i
 
 <h2>My Tools</h2>
 Tools I Use For Game Development
-- Unity
-- Visual Studio Code
-- Visual Studio 2022
-- Canva
-- Figma
+Websites I Often Visits
+- Freesound
+- Itch.io
+- Unity Asset Store
+- Pixabay
+- OpenGameArt
 
 Websites I Often Visits
 - Freesound
