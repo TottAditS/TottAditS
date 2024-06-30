@@ -15,7 +15,7 @@ Hello! I'm a passionate programmer in game development using Unity. Whether it's
   </thead>
   <tbody>
   <tr width="500px">
-      <td>
+  <td>
 aaaa
 
   </td>
@@ -24,6 +24,17 @@ aaaa
 
   </td>
   </tr>
+  <tr width="500px">
+  <td>
+aaaa
+
+  </td>
+  <td>
+aaaa
+
+  </td>
+  </tr>
+  
 
   </tbody>
 </table>
