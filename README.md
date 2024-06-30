@@ -52,11 +52,13 @@ Websites I Often Visits
 - OpenGameArt
 
 Tools I Use For Game Development
-- Freesound
-- Itch.io
-- Unity Asset Store
-- Pixabay
-- OpenGameArt
+- Unity
+- Visual Studio Code
+- Visual Studio 2022
+- Canva
+- Figma
+- Adobe Photoshop
+- Capcut
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
