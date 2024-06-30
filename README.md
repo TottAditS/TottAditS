@@ -14,7 +14,7 @@ Hello! I'm a passionate programmer in game development using Unity. Whether it's
     </tr>
   </thead>
   <tbody>
-  <tr width="500px">
+  <tr width="500px" align="center">
   <td>
     
 ![gifshort](https://github.com/TottAditS/TottAditS/assets/154248410/ccab71c4-e624-4a9d-b61a-84318f04f220)
