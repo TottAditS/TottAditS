@@ -9,12 +9,12 @@ Hello! I'm a passionate programmer in game development using Unity. Whether it's
 <table>
   <thead>
     <tr>
-      <th width="800px">Knights N Pongs</th>
-      <th width="800px">CLI</th>
+      <th width="500px">Knights N Pongs</th>
+      <th width="500px">CLI</th>
     </tr>
   </thead>
   <tbody>
-  <tr width="100%">
+  <tr width="500px">
       <td>
 
 
