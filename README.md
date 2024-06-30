@@ -60,7 +60,19 @@ consequences on another level. This is my third game built using Unity Engine, i
   
   </td>
   <td>
-  
+
+  - A
+  - B
+  - C
+  - D
+  - E
+
+  </td>
+  </tr>
+  </tbody>
+</table>
+<!-- ============================================= -->
+
 - Unity
 - Visual Studio Code
 - Visual Studio 2022
@@ -68,9 +80,3 @@ consequences on another level. This is my third game built using Unity Engine, i
 - Figma
 - Adobe Photoshop
 - Capcut
-  
-  </td>
-  </tr>
-  </tbody>
-</table>
-<!-- ============================================= -->
