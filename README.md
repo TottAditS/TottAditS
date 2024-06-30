@@ -3,8 +3,6 @@ Hello! I'm a passionate programmer in game development using Unity. Whether it's
 
 <h2>My Projects</h2>
 
-
-
 <!-- ============================================= -->
 <table>
   <thead>
@@ -61,22 +59,14 @@ consequences on another level. This is my third game built using Unity Engine, i
   </td>
   <td>
 
-  - A
-  - B
-  - C
-  - D
-  - E
+  - Unity
+  - Canva
+  - Figma
+  - Visual Studio 2022
+  - Visual Studio Code
 
   </td>
   </tr>
   </tbody>
 </table>
 <!-- ============================================= -->
-
-- Unity
-- Visual Studio Code
-- Visual Studio 2022
-- Canva
-- Figma
-- Adobe Photoshop
-- Capcut
