@@ -6,11 +6,11 @@ Hello! I'm a passionate programmer in game development using Unity. Whether it's
 
 
 <!-- prettier-ignore -->
-<table>
+<table width="100%">
   <thead>
     <tr>
-      <th width="500px"> API</th>
-      <th width="500px">CLI</th>
+      <th width="50%">Knights N Pongs</th>
+      <th width="50%">CLI</th>
     </tr>
   </thead>
   <tbody>
