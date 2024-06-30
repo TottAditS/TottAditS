@@ -10,7 +10,7 @@ Hello! I'm a passionate programmer in game development using Unity. Whether it's
   <thead>
     <tr>
       <th width="500px">Knights N Pongs</th>
-      <th width="500px">CLI</th>
+      <th width="500px">Agent Zero</th>
     </tr>
   </thead>
   <tbody>
@@ -18,12 +18,12 @@ Hello! I'm a passionate programmer in game development using Unity. Whether it's
       <td>
 
 
-</td>
-<td>
+  </td>
+  <td>
 
 
-</td>
-</tr>
+  </td>
+  </tr>
 
   </tbody>
 </table>
@@ -34,6 +34,5 @@ Hello! I'm a passionate programmer in game development using Unity. Whether it's
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-  <br>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/unity.svg" alt="unity" width="45" height="45"/>
 </p>
