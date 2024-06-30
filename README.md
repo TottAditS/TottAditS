@@ -8,6 +8,12 @@ Hello! I'm a passionate programmer in game development using Unity. Whether it's
 | R1C1 | R1C2 |
 | R2C1 | R2C2 |
 
+<style>
+    table {
+        width: 100%;
+    }
+</style>
+
 <h2>My Tools</h2>
 
 <p align="left">
