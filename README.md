@@ -50,11 +50,11 @@ consequences on another level. This is my third game built using Unity Engine, i
   <tr width="500px" align="center">
   <td>
 
-- Freesound
-- Itch.io
-- Unity Asset Store
-- Pixabay
-- OpenGameArt
+  - Freesound
+  - Itch.io
+  - Pixabay
+  - Unity Asset Store
+  - OpenGameArt
   
   </td>
   <td>
