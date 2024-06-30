@@ -41,8 +41,8 @@ consequences on another level. This is my third game built using Unity Engine, i
 <table>
   <thead>
     <tr>
-      <th width="500px" align="center"><a href="https://github.com/TottAditS/KnightsNPongs">KnightsNPong</th>
-      <th width="500px" align="center"><a href="https://github.com/TottAditS/AgentZero">AgentZero</th>
+      <th width="500px" align="center">MyFirstProject</th>
+      <th width="500px" align="center">Coming Soon</th>
     </tr>
   </thead>
   <tbody>
