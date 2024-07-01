@@ -82,7 +82,7 @@ Coming Soon
     </tr>
   </thead>
   <tbody>
-  <tr width="500px" align="center">
+  <tr width="500px" align="left">
   <td>
 
   - Freesound
