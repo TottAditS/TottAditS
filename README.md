@@ -63,7 +63,7 @@ Coming Soon
 Just simple mechanism of User Interface, animation, and Basic Interaction i've learned. This is my first project using Unity Engine, So much to exlore about. 
 The gameplay of this game is side scroll themed. For now it only can attack, soon i will make it so this game is playable.
   </td>
-  <td valign="text-top">
+  <td valign="text-top" align="center">
 Coming Soon
   </td>
   </tr>
