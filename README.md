@@ -42,7 +42,7 @@ consequences on another level. This is my third game built using Unity Engine, i
   <thead>
     <tr>
       <th width="500px" align="center"><a href="https://github.com/TottAditS/MyFirstProject">MyFirstProject</th>
-      <th width="500px" align="center">Coming Soon</th>
+      <th width="500px" align="center"><a href="https://github.com/TottAditS/TOADS-3D">TOADS-3D</th>
     </tr>
   </thead>
   <tbody>
@@ -63,8 +63,8 @@ consequences on another level. This is my third game built using Unity Engine, i
 Just simple mechanism of User Interface, animation, and Basic Interaction i've learned. This is my first project using Unity Engine, So much to exlore about. 
 The gameplay of this game is side scroll themed. For now it only can attack, soon i will make it so this game is playable.
   </td>
-  <td valign="text-top" align="center">
-Coming Soon
+  <td valign="text-top">
+A Prototype 3D Game mechanism of User Interface, animation, and Basic Interaction i've learned. For now it only has basic interaction and basic interface, soon i will make it so this game is playable.
   </td>
   </tr>
   
