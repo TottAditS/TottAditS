@@ -64,7 +64,7 @@ Just simple mechanism of User Interface, animation, and Basic Interaction i've l
 The gameplay of this game is side scroll themed. For now it only can attack, soon i will make it so this game is playable.
   </td>
   <td valign="text-top">
-A Prototype 3D Game mechanism of User Interface, animation, and Basic Interaction i've learned. For now it only has basic interaction and basic interface, soon i will make it so this game is playable.
+TOADS-3D [Prototype] is an exciting 3D First Person Shooter set in a modern era. You play as a police officer who survives a helicopter crash and finds yourself in an abandoned factory. The city is under attack by zombies, and your mission is to survive long enough until help arrives. Navigate through the eerie factory, fend off zombie hordes, and use your skills and wits to stay alive. This game is still under development, and currently cannot be downloaded
   </td>
   </tr>
   
