@@ -54,7 +54,7 @@ consequences on another level. This is my third game built using Unity Engine, i
   </td>
   <td>
 
-![0706(1)](https://github.com/TottAditS/TottAditS/assets/154248410/a197ed38-3b00-45fe-9bc0-a2ab17d00caa)
+![0706(5)](https://github.com/TottAditS/TottAditS/assets/154248410/2686f14a-aa89-46c7-b12d-8706db5bb0e2)
 
   </td>
   </tr>
