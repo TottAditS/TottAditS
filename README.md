@@ -106,8 +106,8 @@ TOADS-3D [Prototype] is an exciting 3D First Person Shooter set in a modern era.
 </table>
 <!-- ============================================= -->
 
-<h2 align="center">📊My Stats</h2>
+<h2 align="left">📊My Stats</h2>
 
-<p align="left">
+<p align="center">
   <img src="https://myreadme.vercel.app/api/embed/TottAditS?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 </p>
