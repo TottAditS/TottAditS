@@ -1,4 +1,4 @@
-### About Me
+<h2>About Me</h2>
 Hello! I'm a passionate programmer in game development using Unity. Whether it's coding complex AI behaviors or polishing visual effects, I'm constantly pushing the boundaries of what's possible in Unity to bring my ideas to life. I'm currently a student, Faculty of Computer Science, majoring in Game Application and Technology.
 
 <h2>My Projects</h2>
