@@ -41,7 +41,7 @@ consequences on another level. This is my third game built using Unity Engine, i
 <table>
   <thead>
     <tr>
-      <th width="500px" align="center"><a href="https://github.com/TottAditS/Terbang">MyFirstProject</th>
+      <th width="500px" align="center"><a href="https://github.com/TottAditS/Terbang">Terbang</th>
       <th width="500px" align="center"><a href="https://github.com/TottAditS/TOADS-3D">TOADS-3D</th>
     </tr>
   </thead>
