@@ -41,7 +41,7 @@ consequences on another level. This is my third game built using Unity Engine, i
 <table>
   <thead>
     <tr>
-      <th width="500px" align="center"><a href="https://github.com/TottAditS/MyFirstProject">MyFirstProject</th>
+      <th width="500px" align="center"><a href="https://github.com/TottAditS/Terbang">MyFirstProject</th>
       <th width="500px" align="center"><a href="https://github.com/TottAditS/TOADS-3D">TOADS-3D</th>
     </tr>
   </thead>
@@ -49,7 +49,7 @@ consequences on another level. This is my third game built using Unity Engine, i
   <tr width="500px" align="center">
   <td>
     
-![0630 (1)(1)](https://github.com/TottAditS/TottAditS/assets/154248410/a68079f2-006b-441d-8391-35897d0bbeed)
+![terbang-gif](https://github.com/user-attachments/assets/fe88db40-be55-49c9-887c-4dd3e4124fae)
 
   </td>
   <td>
@@ -60,8 +60,7 @@ consequences on another level. This is my third game built using Unity Engine, i
   </tr>
   <tr width="500px">
   <td valign="text-top">
-Just simple mechanism of User Interface, animation, and Basic Interaction i've learned. This is my first project using Unity Engine, So much to exlore about. 
-The gameplay of this game is side scroll themed. For now it only can attack, soon i will make it so this game is playable.
+"Terbang" is an exhilarating flight simulation game designed, programmed, and Made by Me. In this game, you can experience the thrill of high-speed aerial racing and the intensity of dogfight combat. Soar through the skies with multiple game modes that offer a blend of strategic challenge and adrenaline-pumping action.
   </td>
   <td valign="text-top">
 TOADS-3D [Prototype] is an exciting 3D First Person Shooter set in a modern era. You play as a police officer who survives a helicopter crash and finds yourself in an abandoned factory. The city is under attack by zombies, and your mission is to survive long enough until help arrives. Navigate through the eerie factory, fend off zombie hordes, and use your skills and wits to stay alive. This game is still under development, and currently cannot be downloaded
