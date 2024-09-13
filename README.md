@@ -26,11 +26,10 @@ Hello! I'm a passionate programmer in game development using Unity. Whether it's
   </tr>
   <tr width="500px">
   <td valign="text-top">
-Knights N Pong it's a minigame i created using Unity Engine, I'm currently still new to Unity Engine and this is my second project after "MyFirstProject". Just a simple game based on Pong. This game is about two knights having fun passing ball each other.
+Knights N Pong is a retro-themed minigame inspired by the classic Pong, reimagined with a medieval twist. Developed over the course of one month, I took on the role of lead programmer and game designer, overseeing every aspect of the game—from programming mechanics to level design—ensuring a cohesive and enjoyable experience for players.
   </td>
   <td valign="text-top">
-Agent Zero is a Prototype game themed Natural Disaster, Educational Game. The game for now has two level. And the levels are connected to each other, so what you do on level 1 will have
-consequences on another level. This is my third game built using Unity Engine, it's not perfect, still have ups and downs, and i will finish the game soon.
+Determined Path is a simulation game bus driver navigating daily challenges while ensuring passenger safety and road etiquette, highlighting the importance of safety and adherence to traffic laws. Developed in two months, I served as the lead programmer and level designer, managing vehicle movement, game mechanics, AI implementation.
   </td>
   </tr>
   
@@ -60,10 +59,10 @@ consequences on another level. This is my third game built using Unity Engine, i
   </tr>
   <tr width="500px">
   <td valign="text-top">
-"Terbang" is an exhilarating flight simulation game designed, programmed, and Made by Me. In this game, you can experience the thrill of high-speed aerial racing and the intensity of dogfight combat. Soar through the skies with multiple game modes that offer a blend of strategic challenge and adrenaline-pumping action.
+“Terbang” is a thrilling flight simulation game that combines high-speed aerial racing with intense dogfight combat across multiple game modes. Developed in just one month, I handled all programming tasks, including movement mechanics and aerial physics, while also serving as the game's designer.
   </td>
   <td valign="text-top">
-TOADS-3D [Prototype] is an exciting 3D First Person Shooter set in a modern era. You play as a police officer who survives a helicopter crash and finds yourself in an abandoned factory. The city is under attack by zombies, and your mission is to survive long enough until help arrives. Navigate through the eerie factory, fend off zombie hordes, and use your skills and wits to stay alive. This game is still under development, and currently cannot be downloaded
+TOADS-3D [Prototype] is a 3D FPS where you play as a police officer surviving a helicopter crash in a zombie-infested city. Developed in 2 months, As Game Programmer, I handled all programming, from movement to NavMesh implementation. The game is still in development and not yet available for download.
   </td>
   </tr>
   
