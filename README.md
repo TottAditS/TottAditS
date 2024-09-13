@@ -8,7 +8,7 @@ Hello! I'm a passionate programmer in game development using Unity. Whether it's
   <thead>
     <tr>
       <th width="500px" align="center"><a href="https://github.com/TottAditS/KnightsNPongs">KnightsNPong</th>
-      <th width="500px" align="center"><a href="https://github.com/TottAditS/AgentZero">AgentZero</th>
+      <th width="500px" align="center"><a href="https://github.com/TottAditS/Determined-Path">Determined-Path</th>
     </tr>
   </thead>
   <tbody>
@@ -20,7 +20,7 @@ Hello! I'm a passionate programmer in game development using Unity. Whether it's
   </td>
   <td>
 
-![0628-copy(2)](https://github.com/TottAditS/TottAditS/assets/154248410/cfbeab1c-c049-43d4-bd93-46f511aa7639)
+![determined1](https://github.com/user-attachments/assets/e2da6375-59ab-4325-9ecd-b20f0bc898cb)
 
   </td>
   </tr>
