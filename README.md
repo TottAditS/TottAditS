@@ -7,8 +7,8 @@ Hello! I'm a passionate programmer in game development using Unity. Whether it's
 <table>
   <thead>
     <tr>
-      <th width="500px" align="center"><a href="https://github.com/TottAditS/KnightsNPongs">KnightsNPong</th>
-      <th width="500px" align="center"><a href="https://github.com/TottAditS/Determined-Path">Determined-Path</th>
+      <th width="500px" align="center">KnightsNPong</th>
+      <th width="500px" align="center">Determined-Path</th>
     </tr>
   </thead>
   <tbody>
@@ -35,10 +35,10 @@ Determined Path is a simulation game bus driver navigating daily challenges whil
 
   <tr width="500px" align="center">
   <td valign="text-top">
-Github Page
+<th width="500px" align="center"><a href="https://github.com/TottAditS/KnightsNPongs">Github Page</th>
   </td>
   <td valign="text-top">
-Github Page
+<th width="500px" align="center"><a href="https://github.com/TottAditS/Determined-Path">Github Page</th>
   </td>
   </tr>
 
@@ -47,7 +47,7 @@ Github Page
 Itch Page
   </td>
   <td valign="text-top">
-Itch Page
+<th width="500px" align="center"><a href="https://juan-xavier.itch.io/determined-path">Github Page</th>
   </td>
   </tr>
   
@@ -83,7 +83,24 @@ Itch Page
 TOADS-3D [Prototype] is a 3D FPS where you play as a police officer surviving a helicopter crash in a zombie-infested city. Developed in 2 months, As Game Programmer, I handled all programming, from movement to NavMesh implementation. The game is still in development and not yet available for download.
   </td>
   </tr>
-  
+
+  <tr width="500px" align="center">
+  <td valign="text-top">
+Github Page
+  </td>
+  <td valign="text-top">
+Github Page
+  </td>
+  </tr>
+
+  <tr width="500px" align="center">
+  <td valign="text-top">
+Itch Page
+  </td>
+  <td valign="text-top">
+Itch Page
+  </td>
+  </tr>
 
   </tbody>
 </table>
