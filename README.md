@@ -35,10 +35,10 @@ Determined Path is a simulation game bus driver navigating daily challenges whil
 
   <tr width="500px" align="center">
   <td valign="text-top">
-<th width="500px" align="center"><a href="https://github.com/TottAditS/KnightsNPongs">Github Page</th>
+<p width="500px" align="center"><a href="https://github.com/TottAditS/KnightsNPongs">Github Page</p>
   </td>
   <td valign="text-top">
-<th width="500px" align="center"><a href="https://github.com/TottAditS/Determined-Path">Github Page</th>
+<p width="500px" align="center"><a href="https://github.com/TottAditS/Determined-Path">Github Page</p>
   </td>
   </tr>
 
@@ -47,7 +47,7 @@ Determined Path is a simulation game bus driver navigating daily challenges whil
 Itch Page
   </td>
   <td valign="text-top">
-<th width="500px" align="center"><a href="https://juan-xavier.itch.io/determined-path">Github Page</th>
+<p width="500px" align="center"><a href="https://juan-xavier.itch.io/determined-path">Github Page</p>
   </td>
   </tr>
   
