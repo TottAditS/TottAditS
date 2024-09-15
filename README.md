@@ -32,6 +32,24 @@ Knights N Pong is a retro-themed minigame inspired by the classic Pong, reimagin
 Determined Path is a simulation game bus driver navigating daily challenges while ensuring passenger safety and road etiquette, highlighting the importance of safety and adherence to traffic laws. Developed in two months, I served as the lead programmer and level designer, managing vehicle movement, game mechanics, AI implementation.
   </td>
   </tr>
+
+  <tr width="500px">
+  <td valign="text-top">
+Github Page
+  </td>
+  <td valign="text-top">
+Github Page
+  </td>
+  </tr>
+
+  <tr width="500px">
+  <td valign="text-top">
+Itch Page
+  </td>
+  <td valign="text-top">
+Itch Page
+  </td>
+  </tr>
   
 
   </tbody>
