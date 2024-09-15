@@ -58,8 +58,8 @@ Itch Page
 <table>
   <thead>
     <tr>
-      <th width="500px" align="center"><a href="https://github.com/TottAditS/Terbang">Terbang</th>
-      <th width="500px" align="center"><a href="https://github.com/TottAditS/TOADS-3D">TOADS-3D</th>
+      <th width="500px" align="center">Terbang</th>
+      <th width="500px" align="center">TOADS-3D</th>
     </tr>
   </thead>
   <tbody>
