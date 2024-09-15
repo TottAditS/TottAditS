@@ -33,7 +33,7 @@ Determined Path is a simulation game bus driver navigating daily challenges whil
   </td>
   </tr>
 
-  <tr width="500px">
+  <tr width="500px" align="center">
   <td valign="text-top">
 Github Page
   </td>
@@ -42,7 +42,7 @@ Github Page
   </td>
   </tr>
 
-  <tr width="500px">
+  <tr width="500px" align="center">
   <td valign="text-top">
 Itch Page
   </td>
