@@ -47,7 +47,7 @@ Determined Path is a simulation game bus driver navigating daily challenges whil
 Itch Page
   </td>
   <td valign="text-top">
-<p width="500px" align="center"><a href="https://juan-xavier.itch.io/determined-path">Github Page</p>
+<p width="500px" align="center"><a href="https://juan-xavier.itch.io/determined-path">Itch Page</p>
   </td>
   </tr>
   
@@ -86,10 +86,10 @@ TOADS-3D [Prototype] is a 3D FPS where you play as a police officer surviving a 
 
   <tr width="500px" align="center">
   <td valign="text-top">
-Github Page
+<p width="500px" align="center"><a href="https://github.com/TottAditS/Terbang">Github Page</p>
   </td>
   <td valign="text-top">
-Github Page
+<p width="500px" align="center"><a href="https://github.com/TottAditS/TOADS-3D">Github Page</p>
   </td>
   </tr>
 
