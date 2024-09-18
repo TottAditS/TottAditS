@@ -15,7 +15,7 @@ Hello! I'm a passionate programmer in game development using Unity. Whether it's
   <tr width="500px" align="center">
   <td>
     
-![gifshort](https://github.com/TottAditS/TottAditS/assets/154248410/ccab71c4-e624-4a9d-b61a-84318f04f220)
+![pong22](https://github.com/user-attachments/assets/ab9e41f4-c8c1-467d-9298-c1294d4f3766)
 
   </td>
   <td>
@@ -66,12 +66,12 @@ Itch Page
   <tr width="500px" align="center">
   <td>
     
-![terbang-gif](https://github.com/user-attachments/assets/fe88db40-be55-49c9-887c-4dd3e4124fae)
+![terbang2](https://github.com/user-attachments/assets/b715320f-21ef-43fa-b087-47954b1052f1)
 
   </td>
   <td>
-
-![0706(7)](https://github.com/TottAditS/TottAditS/assets/154248410/5d8a7b73-12b7-42cc-a61b-0fbd73b68d82)
+    
+![toads2](https://github.com/user-attachments/assets/071bb02e-328d-43b8-b78c-b9ce135dc1e4)
 
   </td>
   </tr>
