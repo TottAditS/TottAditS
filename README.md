@@ -7,35 +7,35 @@
 <table>
   <thead>
     <tr>
-      <th width="500px" align="center">KnightsNPong</th>
+      <th width="500px" align="center">AgentZero</th>
       <th width="500px" align="center">Determined-Path</th>
     </tr>
   </thead>
   <tbody>
   <tr width="500px" align="center">
   <td>
-    
-![pong22](https://github.com/user-attachments/assets/ab9e41f4-c8c1-467d-9298-c1294d4f3766)
+
+![agentzero](https://github.com/user-attachments/assets/ef3e0156-115e-40af-8173-5c0a27765fd2)
 
   </td>
   <td>
 
-![determined1](https://github.com/user-attachments/assets/e2da6375-59ab-4325-9ecd-b20f0bc898cb)
+![deterpath22](https://github.com/user-attachments/assets/5c136cd0-9216-4c57-af0c-a248b882c607)
 
   </td>
   </tr>
   <tr width="500px">
   <td valign="text-top">
-Knights N Pong is a retro-themed minigame inspired by the classic Pong, reimagined with a medieval twist. Developed over the course of one month, I took on the role of lead programmer and game designer, overseeing every aspect of the game—from programming mechanics to level design—ensuring a cohesive and enjoyable experience for players.
+"Agent Zero is a 2D platformer for PC that simulates floods and educates players about their causes, like improper waste disposal. Players must avoid flood obstacles and collect trash. The game ends if all trash is collected without a flood, or if a flood occurs and the player loses. As the Lead Programmer, I developed this game in two weeks."
   </td>
   <td valign="text-top">
-Determined Path is a simulation game bus driver navigating daily challenges while ensuring passenger safety and road etiquette, highlighting the importance of safety and adherence to traffic laws. Developed in two months, I served as the lead programmer and level designer, managing vehicle movement, game mechanics, AI implementation.
+Determined Path is a simulation game bus driver navigating daily challenges while ensuring passenger safety and road etiquette, highlighting the importance of safety and adherence to traffic laws. Developed in one and a half month, I served as the lead programmer and level designer, managing vehicle movement, game mechanics, AI implementation.
   </td>
   </tr>
 
   <tr width="500px" align="center">
   <td valign="text-top">
-<p width="500px" align="center"><a href="https://github.com/TottAditS/KnightsNPongs">Github Page</p>
+<p width="500px" align="center"><a href="https://github.com/TottAditS/AgentZero">Github Page</p>
   </td>
   <td valign="text-top">
 <p width="500px" align="center"><a href="https://github.com/TottAditS/Determined-Path">Github Page</p>
@@ -65,22 +65,23 @@ Itch Page
   <tbody>
   <tr width="500px" align="center">
   <td>
-    
-![terbang2](https://github.com/user-attachments/assets/b715320f-21ef-43fa-b087-47954b1052f1)
+
+![terbang2](https://github.com/user-attachments/assets/4a656d94-04ff-4458-bf3a-b0a7d28ede0a)
 
   </td>
   <td>
     
-![toads2](https://github.com/user-attachments/assets/071bb02e-328d-43b8-b78c-b9ce135dc1e4)
+![toaddss2 (2)](https://github.com/user-attachments/assets/da92f712-d73d-48a1-990c-e6ee6579386b)
+
 
   </td>
   </tr>
   <tr width="500px">
   <td valign="text-top">
-“Terbang” is a thrilling flight simulation game that combines high-speed aerial racing with intense dogfight combat across multiple game modes. Developed in just one month, I handled all programming tasks, including movement mechanics and aerial physics, while also serving as the game's designer.
+“Terbang” is a thrilling flight simulation game that combines high-speed aerial racing with intense dogfight combat across multiple game modes. Developed currently in two weeks. As game programmer, I handled all programming tasks, including movement mechanics and aerial physics, while also serving as the game's designer.
   </td>
   <td valign="text-top">
-TOADS-3D [Prototype] is a 3D FPS where you play as a police officer surviving a helicopter crash in a zombie-infested city. Developed in 2 months, As Game Programmer, I handled all programming, from movement to NavMesh implementation. The game is still in development and not yet available for download.
+TOADS-3D [Prototype] is a 3D FPS where you play as a police officer surviving a helicopter crash in a zombie-infested city. Developed in one month, as Game Programmer, I handled all programming, from movement, game mechanics to NavMesh implementation. I also managed the level design for this game.
   </td>
   </tr>
 
