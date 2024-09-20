@@ -44,7 +44,7 @@ Determined Path is a simulation game bus driver navigating daily challenges whil
 
   <tr width="500px" align="center">
   <td valign="text-top">
-Itch Page
+<p width="500px" align="center"><a href="https://juan-xavier.itch.io/agent-zero">Itch Page</p>
   </td>
   <td valign="text-top">
 <p width="500px" align="center"><a href="https://juan-xavier.itch.io/determined-path">Itch Page</p>
