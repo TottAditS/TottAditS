@@ -58,7 +58,7 @@ Determined Path is a simulation game bus driver navigating daily challenges whil
 <table>
   <thead>
     <tr>
-      <th width="500px" align="center">Terbang</th>
+      <th width="500px" align="center">TaskForce</th>
       <th width="500px" align="center">TOADS-3D</th>
     </tr>
   </thead>
