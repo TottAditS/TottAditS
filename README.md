@@ -96,7 +96,7 @@ TOADS-3D [Prototype] is a 3D FPS where you play as a police officer surviving a 
 
   <tr width="500px" align="center">
   <td valign="text-top">
-Itch Page
+<p width="500px" align="center"><a href="https://tottadits.itch.io/taskforce">Itch Page</p>
   </td>
   <td valign="text-top">
 Itch Page
