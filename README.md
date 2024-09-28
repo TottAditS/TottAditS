@@ -2,7 +2,7 @@
 <p align="justify">Hello! I'm a passionate programmer in game development using Unity. Whether it's coding complex AI behaviors or polishing visual effects, I'm constantly pushing the boundaries of what's possible in Unity to bring my ideas to life. I'm currently a student, Faculty of Computer Science, majoring in Game Application and Technology. I’m fifth-semester Game Programmer student with skills in programming and level design. Specializing in character movements, game mechanics, NavMesh implementation, and Unity lighting, I excel at creating immersive gameplay experiences and optimizing game environments for performance.</p>
 
 <h2>My Projects</h2>
- 
+
 <!-- ============================================= -->
 <table>
   <thead>
