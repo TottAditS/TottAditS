@@ -20,7 +20,7 @@
   </td>
   <td>
 
-![deterpath22](https://github.com/user-attachments/assets/5c136cd0-9216-4c57-af0c-a248b882c607)
+![deterpath2](https://github.com/user-attachments/assets/eb847aa5-584a-45d4-aa9f-5444eab83df3)
 
   </td>
   </tr>
