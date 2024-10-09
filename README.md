@@ -70,9 +70,8 @@ Determined Path is a simulation game bus driver navigating daily challenges whil
 
   </td>
   <td>
-    
-![toaddss2 (2)](https://github.com/user-attachments/assets/da92f712-d73d-48a1-990c-e6ee6579386b)
 
+![TOADS](https://github.com/user-attachments/assets/8089446a-c111-40b6-91bd-9cd2797ebe96)
 
   </td>
   </tr>
