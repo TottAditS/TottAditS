@@ -81,7 +81,7 @@ Determined Path is a simulation game bus driver navigating daily challenges whil
 Experience the thrill of high-speed aerial competition in our latest flight simulation game. The core mechanics are designed to highlight the realistic physics of flight, providing an immersive experience that balances entertainment with a showcase of aviation principles. As a solo programmer, technical-level designer, and UI designer, I developed this flight simulation game in 2 weeks."
   </td>
   <td valign="text-top">
-TOADS-3D [Prototype] is a 3D FPS where you play as a police officer surviving a helicopter crash in a zombie-infested city. Developed in one month, as Game Programmer, I handled all programming, from movement, game mechanics to NavMesh implementation. I also managed the level design for this game.
+TOADS-3D [Prototype] is a 3D Tank Battle Simulator game. Developed in one month, as Game Programmer, I handled all programming, from movement, game mechanics to NavMesh implementation. I also managed the level design for this game.
   </td>
   </tr>
 
