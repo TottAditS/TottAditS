@@ -105,6 +105,18 @@ Itch Page
   </tbody>
 </table>
 
+<table>
+  <thead>
+    <tr>
+      <th width="1000px" align="center">My Projects</th>
+    </tr>
+  </thead>
+  <tbody>
+  <tr width="1000px" align="center">
+    <th width="1000px" align="center"><a href="https://github.com/TottAditS/">Check my projects</th>
+  </tr>
+  </tbody>
+</table>
 <!-- ============================================= -->
 <h2>My Tools</h2>
 <table>
