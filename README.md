@@ -113,7 +113,7 @@ Itch Page
   </thead>
   <tbody>
   <tr width="1000px" align="center">
-    <th width="1000px" align="center"><a href="https://github.com/TottAditS/">Check my projects</th>
+    <th width="1000px" align="center"><a href="https://github.com/TottAditS/AllProjects/blob/main/README.md">Check my projects</th>
   </tr>
   </tbody>
 </table>
