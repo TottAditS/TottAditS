@@ -98,7 +98,7 @@ TOADS-3D [Prototype] is a 3D Tank Battle Simulator game. Developed in one month,
 <p width="500px" align="center"><a href="https://tottadits.itch.io/taskforce">Itch Page</p>
   </td>
   <td valign="text-top">
-<p width="500px" align="center"><a href="https://tottadits.itch.io/toads-3d">Itch Page</p>
+<p width="500px" align="center"><a href="https://tottadits.itch.io/toads">Itch Page</p>
   </td>
   </tr>
 
