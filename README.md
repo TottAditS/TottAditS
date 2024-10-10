@@ -14,12 +14,12 @@
   <tr width="500px" align="center">
   <td>
 
-![0927-copy](https://github.com/user-attachments/assets/4988a032-071b-4342-be22-9db5a2dda57d)
+![taskfor-ezgif com-optimize](https://github.com/user-attachments/assets/3e28ab86-c8b3-4af8-98ea-c592e19ae2f5)
 
   </td>
   <td>
 
-![TOADS](https://github.com/user-attachments/assets/8089446a-c111-40b6-91bd-9cd2797ebe96)
+![tods-ezgif com-optimize](https://github.com/user-attachments/assets/36c89143-d969-4023-b38a-75d9137bd1e1)
 
   </td>
   </tr>
@@ -64,12 +64,12 @@ TOADS-3D [Prototype] is a 3D Tank Battle Simulator game. Developed in one month,
   <tr width="500px" align="center">
   <td>
 
-![agentzero](https://github.com/user-attachments/assets/ef3e0156-115e-40af-8173-5c0a27765fd2)
+![agentz-ezgif com-optimize](https://github.com/user-attachments/assets/ce7153e6-92eb-46a6-b507-adeabe3c00db)
 
   </td>
   <td>
-
-![deterpath2](https://github.com/user-attachments/assets/eb847aa5-584a-45d4-aa9f-5444eab83df3)
+    
+![deterpat-ezgif com-optimize](https://github.com/user-attachments/assets/368b679d-9c6e-4e50-82e0-234d88b9b238)
 
   </td>
   </tr>
