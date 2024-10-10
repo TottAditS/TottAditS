@@ -2,59 +2,7 @@
 <p align="justify">"Game Programmer specializing in Character Behaviors, NavMesh Implementation, and Unity Optimization, I excel in creating immersive gameplay experiences and fine-tuning game environments for peak performance. I am currently expanding my expertise in Unity Multiplayer using Netcode for GameObject, as well as exploring Unity HDRP Optimization to enhance visual quality and performance." </p>
   
 <h2>My Projects</h2> 
-
-<!-- ============================================= -->
-<table>
-  <thead>
-    <tr>
-      <th width="500px" align="center">AgentZero</th>
-      <th width="500px" align="center">Determined-Path</th>
-    </tr>
-  </thead>
-  <tbody>
-  <tr width="500px" align="center">
-  <td>
-
-![agentzero](https://github.com/user-attachments/assets/ef3e0156-115e-40af-8173-5c0a27765fd2)
-
-  </td>
-  <td>
-
-![deterpath2](https://github.com/user-attachments/assets/eb847aa5-584a-45d4-aa9f-5444eab83df3)
-
-  </td>
-  </tr>
-  <tr width="500px">
-  <td valign="text-top">
-"Agent Zero is a 2D platformer for PC that simulates floods and educates players about their causes, like improper waste disposal. Players must avoid flood obstacles and collect trash. The game ends if all trash is collected without a flood, or if a flood occurs and the player loses. As the Lead Programmer, I developed this game in two weeks."
-  </td>
-  <td valign="text-top">
-Determined Path is a simulation game bus driver navigating daily challenges while ensuring passenger safety and road etiquette, highlighting the importance of safety and adherence to traffic laws. Developed in one and a half month, I served as the lead programmer and level designer, managing vehicle movement, game mechanics, AI implementation.
-  </td>
-  </tr>
-
-  <tr width="500px" align="center">
-  <td valign="text-top">
-<p width="500px" align="center"><a href="https://github.com/TottAditS/AgentZero">Github Page</p>
-  </td>
-  <td valign="text-top">
-<p width="500px" align="center"><a href="https://github.com/TottAditS/Determined-Path">Github Page</p>
-  </td>
-  </tr>
-
-  <tr width="500px" align="center">
-  <td valign="text-top">
-<p width="500px" align="center"><a href="https://tottadits.itch.io/agent-zero">Itch Page</p>
-  </td>
-  <td valign="text-top">
-<p width="500px" align="center"><a href="https://juan-xavier.itch.io/determined-path">Itch Page</p>
-  </td>
-  </tr>
-  
-
-  </tbody>
-</table>
-<!-- ============================================= -->
+<!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= -->
 <table>
   <thead>
     <tr>
@@ -117,7 +65,58 @@ TOADS-3D [Prototype] is a 3D Tank Battle Simulator game. Developed in one month,
   </tr>
   </tbody>
 </table>
-<!-- ============================================= -->
+<!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= -->
+<table>
+  <thead>
+    <tr>
+      <th width="500px" align="center">AgentZero</th>
+      <th width="500px" align="center">Determined-Path</th>
+    </tr>
+  </thead>
+  <tbody>
+  <tr width="500px" align="center">
+  <td>
+
+![agentzero](https://github.com/user-attachments/assets/ef3e0156-115e-40af-8173-5c0a27765fd2)
+
+  </td>
+  <td>
+
+![deterpath2](https://github.com/user-attachments/assets/eb847aa5-584a-45d4-aa9f-5444eab83df3)
+
+  </td>
+  </tr>
+  <tr width="500px">
+  <td valign="text-top">
+"Agent Zero is a 2D platformer for PC that simulates floods and educates players about their causes, like improper waste disposal. Players must avoid flood obstacles and collect trash. The game ends if all trash is collected without a flood, or if a flood occurs and the player loses. As the Lead Programmer, I developed this game in two weeks."
+  </td>
+  <td valign="text-top">
+Determined Path is a simulation game bus driver navigating daily challenges while ensuring passenger safety and road etiquette, highlighting the importance of safety and adherence to traffic laws. Developed in one and a half month, I served as the lead programmer and level designer, managing vehicle movement, game mechanics, AI implementation.
+  </td>
+  </tr>
+
+  <tr width="500px" align="center">
+  <td valign="text-top">
+<p width="500px" align="center"><a href="https://github.com/TottAditS/AgentZero">Github Page</p>
+  </td>
+  <td valign="text-top">
+<p width="500px" align="center"><a href="https://github.com/TottAditS/Determined-Path">Github Page</p>
+  </td>
+  </tr>
+
+  <tr width="500px" align="center">
+  <td valign="text-top">
+<p width="500px" align="center"><a href="https://tottadits.itch.io/agent-zero">Itch Page</p>
+  </td>
+  <td valign="text-top">
+<p width="500px" align="center"><a href="https://juan-xavier.itch.io/determined-path">Itch Page</p>
+  </td>
+  </tr>
+  
+
+  </tbody>
+</table>
+<!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= -->
 <h2>My Tools</h2>
 <table>
   <thead>
@@ -149,7 +148,7 @@ TOADS-3D [Prototype] is a 3D Tank Battle Simulator game. Developed in one month,
   </tr>
   </tbody>
 </table>
-<!-- ============================================= -->
+<!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= -->
 
 <h2 align="center">📊My Stats</h2>
 
