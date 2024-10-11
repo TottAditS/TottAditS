@@ -130,10 +130,10 @@ Determined Path is a simulation game bus driver navigating daily challenges whil
   <td>
 
   - Freesound
-  - Itch.io
+  - SketchFab
   - Pixabay
   - Unity Asset Store
-  - OpenGameArt
+  - CGTrader
   
   </td>
   <td>
@@ -142,7 +142,7 @@ Determined Path is a simulation game bus driver navigating daily challenges whil
   - Canva
   - Figma
   - Visual Studio 2022
-  - Visual Studio Code
+  - Mixamo
 
   </td>
   </tr>
