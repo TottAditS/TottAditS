@@ -143,7 +143,7 @@ Determined Path is a simulation game bus driver navigating daily challenges whil
   - Figma
   - Visual Studio 2022
   - Mixamo
-
+ 
   </td>
   </tr>
   </tbody>
