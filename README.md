@@ -153,7 +153,6 @@
 <h2 align="center">📊My Stats</h2>
 
 <p align="center">
-  
 <picture>
    <source
     srcset="https://github-readme-stats.vercel.app/api?username=TottAditS&show_icons=true&theme=dark"
@@ -165,5 +164,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=TottAditS&show_icons=true" />
 </picture>
-  
 </p>
+
+<h2>About Myself</h2>
+<p align="justify">Hello, my name is totti.  i’m fifth-semester Game Programmer student with skills in Programming and Technical Design. Specializing in Character Behaviors, NavMesh Implementation, and Unity Optimization, I excel in creating immersive gameplay experiences and fine-tuning game environments for peak performance. I am currently expanding my expertise in Unity Multiplayer using Netcode for GameObject, as well as exploring Unity HDRP Optimization to enhance visual quality and performance.</p>
