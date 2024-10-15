@@ -25,10 +25,10 @@
   </tr>
   <tr width="500px">
   <td valign="text-top">
-Experience the thrill of high-speed aerial competition in our latest flight simulation game. The core mechanics are designed to highlight the realistic physics of flight, providing an immersive experience that balances entertainment with a showcase of aviation principles. As a solo programmer, technical-level designer, and UI designer, I developed this flight simulation game in 2 weeks."
+<p align="justify">Experience the thrill of high-speed aerial competition in our latest flight simulation game. The core mechanics are designed to highlight the realistic physics of flight, providing an immersive experience that balances entertainment with a showcase of aviation principles. As a solo programmer, technical-level designer, and UI designer, I developed this flight simulation game in 2 weeks."</p>
   </td>
   <td valign="text-top">
-TOADS-3D [Prototype] is a 3D Tank Battle Simulator game. Developed in one month, as Game Programmer, I handled all programming, from movement, game mechanics to NavMesh implementation. I also managed the level design for this game.
+<p align="justify">TOADS-3D [Prototype] is a 3D Tank Battle Simulator game. Developed in one month, as Game Programmer, I handled all programming, from movement, game mechanics to NavMesh implementation. I also managed the level design for this game.</p>
   </td>
   </tr>
 
@@ -75,10 +75,10 @@ TOADS-3D [Prototype] is a 3D Tank Battle Simulator game. Developed in one month,
   </tr>
   <tr width="500px">
   <td valign="text-top">
-"Agent Zero is a 2D platformer for PC that simulates floods and educates players about their causes, like improper waste disposal. Players must avoid flood obstacles and collect trash. The game ends if all trash is collected without a flood, or if a flood occurs and the player loses. As the Lead Programmer, I developed this game in two weeks."
+<p align="justify">Agent Zero is a 2D platformer for PC that simulates floods and educates players about their causes, like improper waste disposal. Players must avoid flood obstacles and collect trash. The game ends if all trash is collected without a flood, or if a flood occurs and the player loses. As the Lead Programmer, I developed this game in two weeks.</p>
   </td>
   <td valign="text-top">
-Determined Path is a simulation game bus driver navigating daily challenges while ensuring passenger safety and road etiquette, highlighting the importance of safety and adherence to traffic laws. Developed in one and a half month, I served as the lead programmer and level designer, managing vehicle movement, game mechanics, AI implementation.
+<p align="justify">Determined Path is a simulation game bus driver navigating daily challenges while ensuring passenger safety and road etiquette, highlighting the importance of safety and adherence to traffic laws. Developed in one and a half month, I served as the lead programmer and level designer, managing vehicle movement, game mechanics, AI implementation.</p>
   </td>
   </tr>
 
