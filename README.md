@@ -107,7 +107,7 @@
 <table>
   <thead>
     <tr>
-      <th width="1000px" align="center">My Projects</th>
+      <th width="1000px" align="center">Check All My Projects</th>
     </tr>
   </thead>
   <tbody>
