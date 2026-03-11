@@ -1,5 +1,5 @@
 <h2>My Skill</h2>
-<p align="justify">"Game Programmer specializing in Character Behaviors, NavMesh Implementation, and Unity Optimization, I excel in creating immersive gameplay experiences and fine-tuning game environments for peak performance. I am currently expanding my expertise in Unity Multiplayer using Netcode for GameObject, as well as exploring Unity HDRP Optimization to enhance visual quality and performance." </p> 
+<p align="justify">"Software Developer with a background in Unity game development, specializing in Character Behaviors, NavMesh implementation, and performance optimization. Experienced in building gameplay systems and currently expanding into Artificial Intelligence programs, cloud and web development, including intelligent applications, backend services, and scalable systems." </p> 
     
 <h2>My Projects</h2> 
 <!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= -->
@@ -118,35 +118,69 @@
 </table>
 <!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= -->
 <h2>My Tools</h2>
+
 <table>
-  <thead>
-    <tr>
-      <th width="500px" align="center">Websites I Often Visits</th>
-      <th width="500px" align="center">Tools I Use For Game Development</th>
-    </tr>
-  </thead>
-  <tbody>
-  <tr width="500px" align="left">
-  <td>
+<thead>
+<tr>
+<th width="250px" align="center">Game Development</th>
+<th width="250px" align="center">AI / Machine Learning</th>
+<th width="250px" align="center">Cloud Engineering</th>
+<th width="250px" align="center">Web Development</th>
+</tr>
+</thead>
 
-  - Freesound
-  - SketchFab
-  - Pixabay
-  - Unity Asset Store
-  - CGTrader
-  
-  </td>
-  <td>
+<tbody>
+<tr>
+<td align="left">
 
-  - Unity
-  - Canva
-  - Figma
-  - Visual Studio 2022
-  - Mixamo
- 
-  </td>
-  </tr>
-  </tbody>
+- Unity
+- C#
+- Visual Studio 2022
+- Blender
+- Mixamo
+- Unity Asset Store
+- NavMesh System
+- Netcode for GameObjects
+- FMOD / Game Audio Tools
+
+</td>
+
+<td align="left">
+
+- Python
+- Anaconda
+- PyTorch
+- Scikit-learn
+- OpenCV
+- Pandas
+- NumPy
+- Jupyter Notebook
+- Hugging Face
+- Deep Learning Models
+
+</td>
+
+<td align="left">
+
+- Alibaba Cloud ECS
+- Linux Server
+- CI/CD Pipeline
+- Cloud Storage
+
+</td>
+
+<td align="left">
+
+- HTML5
+- CSS
+- JavaScript
+- React
+- Node.js
+- Git / GitHub
+
+</td>
+</tr>
+</tbody>
 </table>
 <!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= -->
 
@@ -167,4 +201,6 @@
 </p>
 
 <h2>About Myself</h2>
-<p align="justify">Hello, my name is totti.  i’m fifth-semester Game Programmer student with skills in Programming and Technical Design. Specializing in Character Behaviors, NavMesh Implementation, and Unity Optimization, I excel in creating immersive gameplay experiences and fine-tuning game environments for peak performance. I am currently expanding my expertise in Unity Multiplayer using Netcode for GameObject, as well as exploring Unity HDRP Optimization to enhance visual quality and performance. </p>
+<p align="justify">Hello, my name is Totti. I’m a programmer with a background in Unity game development and technical. My experience includes character, NavMesh, and performance optimization to build efficient gameplay systems.
+
+Alongside game development, currently I am expanding my skills in Artificial Intelligence, web development, and cloud computing. I am interested in developing intelligent applications, scalable web systems, and cloud-based solutions.</p>
